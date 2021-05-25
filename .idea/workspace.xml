@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7d6aeb1f-4d94-4005-b96d-94728cea4789" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/AsyncTask/Nguyễn Tiến Dũng - 20183720 - Bài tập tuần 5.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsyncTask/Nguyễn Tiến Dũng - 20183720 - Bài tập tuần 6.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsyncTask/Nguyễn Tiến Dũng - 20183720 - Bài tập tuần 7.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsyncTask/Nguyễn Tiến Dũng - 20183720 - Bài tập tuần 8.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsyncTask/Tuần 3/Bài 1.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsyncTask/Tuần 3/Bài 2.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsyncTask/Tuần 3/img/code button.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsyncTask/Tuần 3/img/screen vm 2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsyncTask/Tuần 3/img/screen vm.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsyncTask/Tuần 4/Bài 1.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsyncTask/Tuần 4/Bài 2.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsyncTask/Tuần 4/Bài 3.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsyncTask/Tuần 4/img/create project.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsyncTask/Tuần 4/img/create second activity.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsyncTask/Tuần 4/img/step10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsyncTask/Tuần 4/img/step11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsyncTask/Tuần 4/img/step12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsyncTask/Tuần 4/img/step13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsyncTask/Tuần 4/img/step14.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsyncTask/Tuần 4/img/step15.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsyncTask/Tuần 4/img/step16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsyncTask/Tuần 4/img/step17.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsyncTask/Tuần 4/img/step18.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsyncTask/Tuần 4/img/step19.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsyncTask/Tuần 4/img/step2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsyncTask/Tuần 4/img/step20.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsyncTask/Tuần 4/img/step21.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsyncTask/Tuần 4/img/step22.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsyncTask/Tuần 4/img/step23.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsyncTask/Tuần 4/img/step24.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsyncTask/Tuần 4/img/step3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsyncTask/Tuần 4/img/step4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsyncTask/Tuần 4/img/step5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsyncTask/Tuần 4/img/step6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsyncTask/Tuần 4/img/step7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsyncTask/Tuần 4/img/step8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsyncTask/Tuần 4/img/step9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsyncTask/Tuần 4/img2/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsyncTask/Tuần 4/img2/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsyncTask/Tuần 4/img2/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsyncTask/Tuần 4/img2/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsyncTask/Tuần 4/img2/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsyncTask/Tuần 4/img2/6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsyncTask/Tuần 4/img2/7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsyncTask/Tuần 4/img2/8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsyncTask/lab_1_3.docx" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[ACB00064098]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/AsyncTask" />
+  </component>
+  <component name="ProjectId" id="1t0NNP9KwZ6uFOqm2GtiAYJNcyJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="AsyncTask.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7d6aeb1f-4d94-4005-b96d-94728cea4789" name="Default Changelist" comment="" />
+      <created>1621902005037</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621902005037</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2088" y="207" key="#com.intellij.ide.util.MemberChooser" timestamp="1621902619806">
+      <screen x="1600" y="137" width="1366" height="728" />
+    </state>
+    <state x="2088" y="207" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860/1600.137.1366.728@1600.137.1366.728" timestamp="1621902619806" />
+    <state x="2063" y="255" key="FileChooserDialogImpl" timestamp="1621905106732">
+      <screen x="1600" y="137" width="1366" height="728" />
+    </state>
+    <state x="2063" y="255" key="FileChooserDialogImpl/0.0.1600.860/1600.137.1366.728@1600.137.1366.728" timestamp="1621905106732" />
+    <state width="1323" height="136" key="GridCell.Tab.0.bottom" timestamp="1621903727706">
+      <screen x="1600" y="137" width="1366" height="728" />
+    </state>
+    <state width="1323" height="136" key="GridCell.Tab.0.bottom/0.0.1600.860/1600.137.1366.728@1600.137.1366.728" timestamp="1621903727706" />
+    <state width="1323" height="136" key="GridCell.Tab.0.center" timestamp="1621903727705">
+      <screen x="1600" y="137" width="1366" height="728" />
+    </state>
+    <state width="1323" height="136" key="GridCell.Tab.0.center/0.0.1600.860/1600.137.1366.728@1600.137.1366.728" timestamp="1621903727705" />
+    <state width="1323" height="136" key="GridCell.Tab.0.left" timestamp="1621903727704">
+      <screen x="1600" y="137" width="1366" height="728" />
+    </state>
+    <state width="1323" height="136" key="GridCell.Tab.0.left/0.0.1600.860/1600.137.1366.728@1600.137.1366.728" timestamp="1621903727704" />
+    <state width="1323" height="136" key="GridCell.Tab.0.right" timestamp="1621903727705">
+      <screen x="1600" y="137" width="1366" height="728" />
+    </state>
+    <state width="1323" height="136" key="GridCell.Tab.0.right/0.0.1600.860/1600.137.1366.728@1600.137.1366.728" timestamp="1621903727705" />
+  </component>
+</project>
